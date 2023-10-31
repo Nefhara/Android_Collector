@@ -11,6 +11,8 @@ This is a standard bat script, you need to run it with inside ADB folder :
 
   ![ALT](/Referentiel/launch_1.png)
 
+  ![ALT](/Referentiel/launch_2.png)
+
 # -Functions
   - **start_adb_server** : use adb.exe application to access android.
   - **check_device** : search for connected smartphones.
