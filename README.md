@@ -24,6 +24,10 @@ This is a standard bat script, you need to run it with inside ADB folder :
   - **full_copy** : copy all SYSTEM data with user right.
   - **adb_backup** : creating a full phone backup via android utility.
 
+# -Result
+  - Folder creation at the root of the script with the serial number of the smartphone as the name.
+  - This folder contains the results of the script functions as well as the backups.
+
 # -To do list
   - Add banner and help information.
   - Create a menu with the function choice to launch.
