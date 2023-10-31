@@ -25,8 +25,8 @@ This is a standard bat script, you need to run it with inside ADB folder :
 # -To do list
   - Add banner and help information.
   - Create a menu with the function choice to launch.
-  - Recovery of wtmp, btmp, syslog and message log files.
-  - Adding advanced forensic fonctionality within a docker. 
+  - Modify backup function to include an automatic pixel size.
+  - Add error handling.
 
 
 
