@@ -1,5 +1,5 @@
 # -Android_Collector
-BAT collector artefact script on android.
+BAT script android artefact collector.
 
 # -How to launch it
 This is a standard bat script, you need to run it with inside ADB folder :
@@ -33,7 +33,3 @@ This is a standard bat script, you need to run it with inside ADB folder :
   - Create a menu with the function choice to launch.
   - Modify backup function to include an automatic pixel size.
   - Add error handling.
-
-
-
-
